@@ -1,3 +1,15 @@
+# FoodOrderingApp-Frontend
+
+Frontend and integration for food ordering app
+
+Teammates
+
+Siddharth Tiwari : siddhartth.1987@gmail.com, Sanjit Singh : sanjitsingh1991@gmail.com, Puja Singh : pujasingh59@gmail.com
+
+Notes on working with npm were part of the initial stub and can be referred below.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
