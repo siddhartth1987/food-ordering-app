@@ -585,7 +585,7 @@ class Header extends Component {
                                            <SearchIcon id="search-icon" htmlColor="white"></SearchIcon>
                                        </InputAdornment>
                                    }
-                                   fullWidth={true} placeholder="Search by Restaurant Name" onChange={this.inputSearchChangeHandler} />
+                                   style ={{width: '110%'}} placeholder="Search by Restaurant Name" onChange={this.inputSearchChangeHandler} />
                         </span>
                     }
 
